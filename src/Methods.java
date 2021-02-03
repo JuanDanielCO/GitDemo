@@ -4,6 +4,8 @@ public class Methods {
 		
 		System.out.println("Header links validated");
 		return 2;
+		
+		System.out.println("Test GIT");
 	}
 	
 	
